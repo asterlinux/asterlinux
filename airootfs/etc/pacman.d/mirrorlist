@@ -1,0 +1,16 @@
+## Singapore
+Server = https://mirror.sg.gs/archlinux/$repo/os/$arch
+## Singapore
+Server = https://mirror.0x.sg/archlinux/$repo/os/$arch
+## Singapore
+Server = https://mirror.jingk.ai/archlinux/$repo/os/$arch
+## Singapore
+Server = https://download.nus.edu.sg/mirror/archlinux/$repo/os/$arch
+## Singapore
+Server = http://mirror.sg.gs/archlinux/$repo/os/$arch
+## Singapore
+Server = http://mirror.0x.sg/archlinux/$repo/os/$arch
+## Singapore
+Server = http://mirror.aktkn.sg/archlinux/$repo/os/$arch
+## Singapore
+Server = http://mirror.jingk.ai/archlinux/$repo/os/$arch
