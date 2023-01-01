@@ -155,7 +155,6 @@ asl-dmenu
 xorg-server
 xorg-xinit
 xorg-apps
-starship
 exa
 os-prober
 base-devel
@@ -163,10 +162,8 @@ mkinitcpio-openswap
 asl-skel
 sed
 konqueror
-openbox
-lxmenu-data
-openbox-menu
-obconf
 sddm
 libnotify
 aster-hooks
+fish
+polkit-kde-agent
