@@ -136,7 +136,6 @@ nano
 thunar
 networkmanager
 network-manager-applet
-rofi
 nitrogen
 python
 python-pip
@@ -161,10 +160,17 @@ base-devel
 mkinitcpio-openswap
 asl-skel
 sed
-konqueror
 sddm
 libnotify
 aster-hooks
 fish
 polkit-kde-agent
 aster-wallpaper
+meld
+adobe-source-code-pro-fonts
+noto-fonts
+ttf-fira-sans
+ttf-font-awesome
+ttf-ubuntu-font-family
+refind
+breeze-icons
