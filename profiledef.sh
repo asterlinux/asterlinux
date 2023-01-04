@@ -24,9 +24,6 @@ file_permissions=(
   ["/usr/local/bin/livecd-sound"]="0:0:755"
   ["/etc/shadow"]="0:0:0400"
   ["/etc/gshadow"]="0:0:0400"
-#  ["/etc/skel/.config/qtile/autostart.sh"]="0:0:755"
-#  ["/etc/skel/.config/qtile/dmenu/dmenu-power"]="0:0:755"
-#  ["/etc/skel/.config/qtile/dmenu/dmenu-todo"]="0:0:755"
 #  ["/etc/skel/.bashrc"]="0:0:755"
 #  ["/etc/skel/.bash_profile"]="0:0:755"
 
