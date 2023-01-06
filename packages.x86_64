@@ -158,7 +158,7 @@ exa
 os-prober
 base-devel
 mkinitcpio-openswap
-asl-skel
+aster-qtile-skel
 sed
 sddm
 libnotify
@@ -172,5 +172,6 @@ noto-fonts
 ttf-fira-sans
 ttf-font-awesome
 ttf-ubuntu-font-family
-refind
 breeze-icons
+grub2-aster-theme
+aster-sddm
