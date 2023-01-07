@@ -1,2 +1,3 @@
-### Add copytoram=n kernel parameter
-copytoram=n
+640*480 
+banner image
+syslinux
