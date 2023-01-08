@@ -43,7 +43,7 @@ GRUB_DISABLE_RECOVERY=true
 #GRUB_COLOR_HIGHLIGHT="light-cyan/blue"
 
 #GRUB_BACKGROUND="/path/to/wallpaper"
-GRUB_THEME="/boot/grub/themes/Asterlinux/theme.txt"
+GRUB_THEME="/boot/grub/themes/space/theme.txt"
 
 # Uncomment to get a beep at GRUB start
 #GRUB_INIT_TUNE="480 440 1"
