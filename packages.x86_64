@@ -185,6 +185,7 @@ lm_sensors
 unzip
 unrar
 linux-headers
+flatpak
 
 # GUI apps
 thunar
@@ -199,6 +200,4 @@ flameshot
 code
 gparted
 grsync
-
-
-flatpak
+vlc
