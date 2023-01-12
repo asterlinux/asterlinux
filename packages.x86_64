@@ -39,8 +39,8 @@ hdparm
 hyperv
 intel-ucode
 irssi
-iw
-iwd
+#iw
+#iwd
 jfsutils
 kitty-terminfo
 less
@@ -51,10 +51,10 @@ linux
 linux-atm
 linux-firmware
 linux-firmware-marvell
-livecd-sounds
+#livecd-sounds
 lsscsi
 lvm2
-lynx
+#lynx
 man-db
 man-pages
 mc
@@ -160,6 +160,8 @@ ttf-hack
 awesome-terminal-fonts
 breeze-icons
 papirus-icon-theme
+cantarell-fonts
+terminus-font
 
 # terminal applications
 wget
@@ -169,7 +171,8 @@ lsb-release
 hyfetch
 exa
 bat
-
+htop
+p7zip
 
 #system
 xorg-server
@@ -201,3 +204,12 @@ code
 gparted
 grsync
 vlc
+
+# graphic
+xf86-video-vesa
+
+
+# bluetooth
+bluez
+bluez-utils
+bluez-libs
