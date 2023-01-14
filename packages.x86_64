@@ -207,6 +207,10 @@ vlc
 
 # graphic
 xf86-video-vesa
+mesa
+mesa-amber
+vulkan-intel
+vulkan-radeon
 
 
 # bluetooth
