@@ -217,3 +217,7 @@ vulkan-radeon
 bluez
 bluez-utils
 bluez-libs
+
+#plymouth
+plymouth-git
+plymouth-theme-space
