@@ -48,6 +48,7 @@ lftp
 libfido2
 libusb-compat
 linux
+linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -188,7 +189,7 @@ plasma
 lm_sensors
 unzip
 unrar
-linux-headers
+linux-zen-headers
 flatpak
 
 # GUI apps
