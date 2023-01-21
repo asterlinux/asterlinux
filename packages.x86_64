@@ -191,6 +191,7 @@ unzip
 unrar
 linux-zen-headers
 flatpak
+lz4
 
 # GUI apps
 thunar
