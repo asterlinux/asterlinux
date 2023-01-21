@@ -1,5 +1,5 @@
 NAME=AsterLinux
-PRETTY_NAME=AsterLinux
+PRETTY_NAME=Aster Linux
 ID=asterlinux
 ID_LIKE=arch
 BUILD_ID=rolling
