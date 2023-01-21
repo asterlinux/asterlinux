@@ -48,7 +48,6 @@ lftp
 libfido2
 libusb-compat
 linux
-linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -190,8 +189,10 @@ lm_sensors
 unzip
 unrar
 linux-zen-headers
+linux-zen
 flatpak
 lz4
+power-profiles-daemon
 
 # GUI apps
 thunar
@@ -203,7 +204,6 @@ latte-dock
 latte-integrale
 kate
 flameshot
-code
 gparted
 grsync
 vlc
@@ -224,5 +224,5 @@ bluez-utils
 bluez-libs
 
 #plymouth
-plymouth-git
+plymouth
 plymouth-theme-space
